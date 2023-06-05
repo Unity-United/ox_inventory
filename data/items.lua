@@ -211,12 +211,6 @@ return {
 		weight = 10,
 	},
 
-	['peepeepoopoo'] = {
-		label = 'peepeepoopoo',
-		stack = true,
-		weight = 10,
-	},
-
 	['scrapmetal'] = {
 		label = 'Scrap Metal',
 		weight = 80,
